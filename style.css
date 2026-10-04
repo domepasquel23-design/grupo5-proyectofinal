@@ -1,18 +1,18 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background-color: #f2f2f2;
+    background-color: #3c92d8;
 }
 
 header {
     background-color: #333;
-    color: white;
+    color: rgb(214, 224, 224);
     text-align: center;
     padding: 20px;
 }
 
 nav {
-    background-color: #555;
+    background-color: #839665;
     text-align: center;
     padding: 10px;
 }
@@ -28,7 +28,7 @@ main {
 }
 
 section {
-    background-color: white;
+    background-color: rgb(153, 13, 247);
     padding: 20px;
 }
 
@@ -116,4 +116,10 @@ button {
         padding: 6px;
     }
 }
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
 
