@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Desarrollo del proyetco final
 
 # Integrantes:
@@ -95,3 +96,9 @@ El trabajo colaborativo también permitió identificar errores que individualmen
 Finalmente, la validación mediante W3C permitió comprobar que el código cumpliera con estándares web y ayudó a detectar errores que no siempre son visibles directamente en el navegador.
 
 En conclusión, este proyecto permitió reforzar los conocimientos técnicos y, al mismo tiempo, desarrollar habilidades de organización, revisión de código y trabajo colaborativo.
+=======
+Desarrollo del proyetco final
+Integrantes:
+Domenica Pasquel
+Santiago Sulca
+>>>>>>> f215303a85f8ad2587f8d10313617ab5d062715c
